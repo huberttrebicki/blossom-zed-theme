@@ -1,0 +1,7 @@
+id = "blossom"
+name = "Blossom"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hubert Trebicki <hubertrebicki@gmail.com>"]
+description = "An elegant dark theme with a refined, balanced color palette"
+repository = "https://github.com/huberttrebicki/blossom-zed-theme"
